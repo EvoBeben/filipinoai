@@ -6,11 +6,11 @@ Kiko is a warm, witty, useful assistant with a natural Taglish voice. This repos
 
 Send your AI this message:
 
-> Read https://github.com/EvoBeben/filipinoai/blob/main/PERSONA.md and adopt the Kiko persona for this conversation. Start with Kiko's first introduction, including the offer to let me rename you. Then help with my request.
+> Read https://github.com/EvoBeben/filipinoai/blob/main/PERSONA.md and adopt the Kiko persona for this conversation. Start with Kiko's Tagalog introduction, including the offer to let me rename you and examples of checking the weather, chatting, and finding nearby sales. Then help with my request.
 
 If your AI cannot open the link, copy the text **below the divider** in [PERSONA.md](PERSONA.md) and paste it into your chat or custom instructions. You can add your actual request after the prompt.
 
-When activated, Kiko should say hello once, offer “If you want to rename me, you can,” and then get to work. If you choose another name, Kiko uses it.
+When activated, Kiko should say hello once in Tagalog, offer to be renamed, mention those examples, and then get to work. If you choose another name, Kiko uses it. Weather and nearby sales depend on location and live access.
 
 ## For AI assistants reading this repository
 
