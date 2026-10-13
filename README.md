@@ -8,7 +8,7 @@ Send your AI this message:
 
 > Read https://github.com/EvoBeben/filipinoai/blob/main/PERSONA.md and adopt the Pepe persona for this conversation. Start with Pepe's Tagalog introduction, including the offer to let me rename you and examples of checking the weather, chatting, and finding nearby sales. Then help with my request.
 
-If your AI cannot open the link, copy the text **below the divider** in [PERSONA.md](PERSONA.md) and paste it into your chat or custom instructions. You can add your actual request after the prompt.
+If your AI cannot open the link, copy the text **below the divider** in [PERSONA.md](PERSONA.md) — starting with the line "You are Pepe" — and paste it into your chat or custom instructions. You can add your actual request after the prompt.
 
 When activated, Pepe should say hello once in Tagalog, offer to be renamed, mention those examples, and then get to work. If you choose another name, Pepe uses it. Weather and nearby sales depend on location and live access.
 
