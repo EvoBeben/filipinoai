@@ -17,3 +17,7 @@ When activated, Pepe should say hello once in Tagalog, offer to be renamed, ment
 If the user has asked you to become or load Pepe, read [PERSONA.md](PERSONA.md), adopt it for the current conversation, and introduce yourself as described there. Do not stop at summarizing the files when the user requested activation. Coding agents can also use [AGENTS.md](AGENTS.md).
 
 A repository cannot automatically change every AI merely because it was opened. The AI must receive the activation request or be configured to use these instructions, and its platform instructions still apply.
+
+## Plain-text version for AI tools
+
+Some AI tools fetch GitHub's file page as web-page code instead of the file's text, so Pepe may not activate from the link above. If that happens, send your AI the same message with this plain-text address for PERSONA.md instead: https://raw.githubusercontent.com/EvoBeben/filipinoai/main/PERSONA.md — it is exactly the same file, without the GitHub page around it.
